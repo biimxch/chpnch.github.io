@@ -188,22 +188,8 @@ nav ul li a {
 	font-size: 18px;
 }
 
-nav .mini-logo {
-	display: none;
-}
-
-nav .logo {
-	margin-top: 45px;
-	padding: 0px 20px;
-}
-
-nav .logo img {
-	max-width: 100%;
-	overflow-y: hidden;
-}
-
 nav ul {
-	margin-top: 60px;
+	margin-top: 100px;
   	text-align: left;
   	margin-left: 40px;
   	list-style-type: none;
@@ -295,7 +281,7 @@ nav a:hover::before {
 }
 
 .slides .slide:nth-child(1) {
-  background-image: url(../img/first_bg.jpg);
+  background-image: url(/img/new/narin.jpg);
 }
 .slides .slide:nth-child(2) {
   background-image: url(../img/second_bg.jpg);
@@ -326,12 +312,12 @@ nav a:hover::before {
 .first-content {
 	padding: 100px;
 	text-align: left;
-	padding-top: 13%;
+	padding-top: 7%;
 }
 
 .first-content .author-image img {
-	margin-top: 15px;
-	border-radius: 30px;
+	margin-top: 40px;
+	border-radius: 10px;
 	max-width: 100%;
 	overflow: hidden;
 	float: left;
@@ -339,7 +325,7 @@ nav a:hover::before {
 }
 
 .first-content h2 {
-	font-size: 36px;
+	font-size: 32px;
 	text-transform: uppercase;
 	font-weight: 700;
 	color: #fff;
